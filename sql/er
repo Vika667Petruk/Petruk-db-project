@@ -38,7 +38,7 @@
 
 4. Построение ER-диаграммы
 ![dfsgs1](https://github.com/Vika667Petruk/Petruk-db-project/blob/main/docs/%D0%BC%D0%B8%D0%BE%D1%80%D0%B8%D0%BE%D0%BF.png?raw=true)
-
+![sdfs](https://github.com/Vika667Petruk/Petruk-db-project/blob/main/docs/%D0%BC%D0%B8%D0%BE%D1%80%D0%B8%D0%BE%D0%BF.png?raw=true)
 
 5. Дополнительные ограничения
 1. Срок годности: дата продажи не позже даты окончания срока годности партии (продажа в день окончания допускается — принятое допущение).
