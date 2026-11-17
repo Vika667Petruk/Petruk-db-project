@@ -37,8 +37,7 @@
 | Позиция продажи | Количество упаковок, фактическая цена                                | Номер продажи, Номер строки (составной) | Позиция не существует вне продажи (слабая сущность).               |
 
 4. Построение ER-диаграммы
-![dfsgs1](https://github.com/Vika667Petruk/Petruk-db-project/blob/main/docs/%D0%BC%D0%B8%D0%BE%D1%80%D0%B8%D0%BE%D0%BF.png?raw=true)
-![sdfs](https://github.com/Vika667Petruk/Petruk-db-project/blob/main/docs/%D0%BC%D0%B8%D0%BE%D1%80%D0%B8%D0%BE%D0%BF.png?raw=true)
+![dfsgs1](https://github.com/Vika667Petruk/Petruk-db-project/blob/34e78de3fd298b9049506bec21d6ca3dc994bcf5/sql/sdzdfdf.png)
 
 5. Дополнительные ограничения
 1. Срок годности: дата продажи не позже даты окончания срока годности партии (продажа в день окончания допускается — принятое допущение).
